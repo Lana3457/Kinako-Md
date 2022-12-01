@@ -45,9 +45,10 @@ global.ppulsa2 = '082217590187'
 global.psaweria = 'https://saweria.co/KazeDevID'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6282217590187'
+global.nomorbot = '6282138101989'
 global.nomorown = '6282217590187'
-global.namebot = 'KinakoBot'
+global.namebot = 'lontong
+'
 global.nameown = 'Lord Kaze'
 
 
